@@ -1,0 +1,2 @@
+hello lab1
+lab1 has a new function
